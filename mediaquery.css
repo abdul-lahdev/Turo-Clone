@@ -1,0 +1,124 @@
+@media (max-width: 1400px) {
+  .rel-abs {
+    width: 72%;
+  }
+  .MeetTheHostBackground {
+    /* background-color: red; */
+    margin-left: 26.4rem;
+    width: 24%;
+  }
+  .newClassToButton {
+    width: 50%;
+    font-size: 0.8rem;
+  }
+  .card-height-settings {
+    height: 15rem;
+  }
+}
+@media (max-width: 1200px) {
+  .rel-abs {
+    width: 80%;
+  }
+  .MeetTheHostBackground {
+    /* background-color: red; */
+    margin-left: 20.4rem;
+    width: 30%;
+  }
+  .heading-turo {
+    font-size: 1.7rem;
+  }
+  .newClassToButton {
+    padding: 0.5rem !important;
+    font-size: 0.6rem;
+  }
+  .button-sus {
+    padding: 0.8;
+    font-size: 0.9rem;
+  }
+  .alignitem-image {
+    margin: 0 auto;
+    display: none;
+  }
+}
+@media (max-width: 992px) {
+  .specialCLassToRemove {
+    display: block;
+    background-color: transparent !important;
+    color: white;
+  }
+  .setttingmarginInSmall {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+  }
+  .button-sus {
+    width: 64%;
+  }
+  .rel-abs {
+    font-size: 1.2rem;
+  }
+  .button-auto-Explore {
+    margin: auto;
+  }
+  /* NAV WORL */
+  .removeClass {
+    display: none;
+  }
+}
+@media (max-width: 769px) {
+  .MeetTheHostBackground {
+    margin-left: 16.4rem;
+  }
+  .ToHideThis {
+    display: none;
+  }
+  .toHideAccordianFooter {
+    display: block;
+  }
+  .setttingmarginInSmall {
+    margin-top: 1rem;
+  }
+}
+@media (max-width: 618px) {
+  .newclasssAfterSmall {
+    width: 15rem;
+  }
+}
+@media (max-width: 589px) {
+  .MeetTheHostBackground {
+    margin-left: 10.4rem;
+    width: 40%;
+  }
+  .background-color-non {
+    height: 27rem;
+  }
+}
+@media (max-width: 464px) {
+  .background-color-non {
+    height: 30rem;
+  }
+  .Turo-gift-card {
+    height: 39rem;
+  }
+  .MeetTheHostBackground {
+    margin-left: 7.4rem;
+    width: 46%;
+  }
+}
+@media (max-width: 426px) {
+  .MeetTheHostBackground {
+    margin-left: 6.4rem;
+    width: 49%;
+  }
+  .button-auto-Explore {
+    width: 100% !important;
+  }
+  .padding-left {
+    padding-left: 0;
+  }
+  .FindYourDrive {
+    font-size: 3rem;
+  }
+  .ToAlignItemCenter {
+    text-align: center;
+  }
+}
